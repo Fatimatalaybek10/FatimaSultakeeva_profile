@@ -1,8 +1,8 @@
 # Hi, I'm Fatima 👋
 
-🎓 MSc student in Data Science (last semester 2026) 
+🎓 MSc student in Data Science (expected to graduate in August 2026) 
 📊 Focus: Financial Time Series, Machine Learning, Early Warning Systems, Data Analysis, Evolutionary alghorithms, Economics, Financial engineering
-🤖 Interests: ML, LSTM, Explainable AI (SHAP), Anomaly Detection, Evolutionary computation
+🤖 Interests: ML, DL, Explainable AI (SHAP), Anomaly Detection, Evolutionary computation, Symbolic Regression Models
 
 ---
 

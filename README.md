@@ -71,11 +71,12 @@ Developed a two-stage system for financial bubble detection using Isolation Fore
 7. Graduation researh (thesis work), "A Comparative Study of Symbolic Regression Methods for Interpretable Early Warning of NASDAQ Market Downturns" 
 ---
 
-If you are interested to collaborate, feel free to contact 
+I am open to work in Data Science and AI field, at the same time as a researcher. 
+If you are interested to collaborate , feel free to contact 
 ## 📫 Contact 
 - LinkedIn: www.linkedin.com/in/fatima-sultakeeva-022266295 
-- Email: fatimatalaybek@email.com
-- CV: https://tinyurl.com/CVofFatimaS
-
+- Email: fatimatalaybek@gmail.com
+- CV in English language: https://tinyurl.com/CVinEnglish-Fatima
+- CV in Korean language: https://tinyurl.com/CV-Fatima-Koreanlang 
 
 👩‍💻 Developed by Fatima Sultakeeva

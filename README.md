@@ -70,9 +70,10 @@ Developed a two-stage system for financial bubble detection using Isolation Fore
 6. Research project with NLP techniques "AI Hype vs Stock asset’s price: NVDA (2023–2025)" 
 7. Graduation researh (thesis work), "A Comparative Study of Symbolic Regression Methods for Interpretable Early Warning of NASDAQ Market Downturns" 
 ---
-
+---
 I am open to work in Data Science and AI field, at the same time as a researcher. 
-If you are interested to collaborate , feel free to contact 
+If you are interested to collaborate, feel free to contact 
+----- 
 ## 📫 Contact 
 - LinkedIn: www.linkedin.com/in/fatima-sultakeeva-022266295 
 - Email: fatimatalaybek@gmail.com

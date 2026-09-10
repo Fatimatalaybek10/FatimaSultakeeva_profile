@@ -18,7 +18,7 @@ My background includes experience as a Project Coordinator, where I developed st
 ## 🧠 Skills
 
 ### 🔧 Hard Skills
-**Programming:** Python, R   
+**Programming:** Python, R, SQL(basics)   
 **Machine Learning / Deep Learning:** Scikit-learn, XGBoost, LSTM, CNN ...   
 **Time Series Analysis:** ARIMA, GARCH, LSTM, rolling-window analysis  
 **Explainable AI:** SHAP, feature importance  
@@ -60,6 +60,7 @@ ProKG Public Association is a non-governmental organization (NGO) dedicated to d
 - Organized public events and delivered public presentations to diverse audiences
 
 ### List of projects and works: 
+
 1. Transfer Learning Performance and Data Augmentation for Houseplant Disease Classification
    In this research investigated transfer learning models (MobileNetV2, ResNet50, DenseNet121) for classifying houseplant diseases under limited data conditions, evaluating the impact of data augmentation on model performance
 2. Bubble Hunter:  Detecting Financial Market Bubbles with Time-Series Anomaly Detection and Early warning system
@@ -68,7 +69,8 @@ Developed a two-stage system for financial bubble detection using Isolation Fore
 4. Working in a team of 6 people from Data Science department, as a reseacrh group for the project "Foundational Research on Estabilishing a Data Sovereignity based regional Data Space Platform" within RISE project. (Regional Innovation System & Education project in South Korea)
 5. Diffrent research groupwork of 4 people within RISE project  "Honnam Region Festival Analysis 2025 Strategic Outlook" 
 6. Research project with NLP techniques "AI Hype vs Stock asset’s price: NVDA (2023–2025)" 
-7. Graduation researh (thesis work), "A Comparative Study of Symbolic Regression Methods for Interpretable Early Warning of NASDAQ Market Downturns" 
+7. Graduation researh (thesis work), "A Comparative Study of Symbolic Regression Methods for Interpretable Early Warning of NASDAQ Market Downturns"
+### For more details: https://tinyurl.com/Portfolio-Fatima-Sultakeeva
 ---
 ---
 I am open to work in Data Science and AI field, at the same time as a researcher. 
@@ -78,6 +80,6 @@ If you are interested to collaborate, feel free to contact
 - LinkedIn: www.linkedin.com/in/fatima-sultakeeva-022266295 
 - Email: fatimatalaybek@gmail.com
 - CV in English language: https://tinyurl.com/CVinEnglish-Fatima
-- CV in Korean language: https://tinyurl.com/CV-Fatima-Koreanlang 
+- CV in Korean language: https://tinyurl.com/CV-Fatima-inKoreanlang 
 
 👩‍💻 Developed by Fatima Sultakeeva

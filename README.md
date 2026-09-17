@@ -79,7 +79,7 @@ If you are interested to collaborate, feel free to contact
 ## 📫 Contact 
 - LinkedIn: www.linkedin.com/in/fatima-sultakeeva-022266295 
 - Email: fatimatalaybek@gmail.com
-- CV in English language: https://tinyurl.com/CVinEnglish-Fatima
+- CV in English language: https://rb.gy/k03ef3
 - CV in Korean language: https://tinyurl.com/CV-Fatima-inKoreanlang 
 
 👩‍💻 Developed by Fatima Sultakeeva

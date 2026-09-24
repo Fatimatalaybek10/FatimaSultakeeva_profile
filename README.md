@@ -1,4 +1,4 @@
-# Hi, I'm Fatima 👋
+# Hi, I'm Fatima from The Kyrgyz Republic, currently living in South Korea👋
 
 🎓 MSc Graduate student in Data Science 
 📊 Focus: Financial Time Series, Machine Learning, Deep Learning, Early Warning Systems, Data Analysis, Evolutionary alghorithms, Economics, Financial engineering
